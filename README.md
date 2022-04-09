@@ -4,6 +4,10 @@ API usada: https://hgbrasil.com/status/weather
   doc: https://console.hgbrasil.com/documentation/weather
 UiPath: community
 
+Instruções: 
+1. baixar uipath
+2. executar arquivo flowchart.xaml
+3. Pronto seu excel esta atualizado.
 
 
 
