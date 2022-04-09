@@ -7,7 +7,8 @@ UiPath: community
 Instruções: 
 1. baixar uipath
 2. executar arquivo flowchart.xaml
-3. Pronto seu excel esta atualizado.
+3. ao abrir o uiPath aperte crlt+f6
+4. Pronto seu excel esta atualizado.
 
 
 
